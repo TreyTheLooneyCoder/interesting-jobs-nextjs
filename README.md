@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+### Roy Cade III (Trey)
 
-## Getting Started
+#### 4/11/25
 
-First, run the development server:
+## Jobs that Interest you
+You are to create a website with Next.JS/TypeScript about five places that you want to work at
+<br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+> Dive into why you want to work there (culture, benefits, hybrid, location)
+- Does the job require the current stack that you know. Would you have learn new skills?
+- What goals would you like to achieve in the hypothetical position?
+- Do you currently have the skillsets for the job?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+If possible add a hyperlink to the Company and a closely related position.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Built in React, using either Bootstrap or Tailwind. Must use routers as a single page application
+Must be designed in a thoughtful manner
+Must be peer reviewed 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Also incorporate a document with the 5 jobs from the site and an additional 5 more with hyperlinks. This document will be used for professional development.
+Job Description
+Job Requirements
 
-## Learn More
+#### Things to turn in:
+- Peer review
+- Node Modules deleted
+- Azure or Vercel hosted link
+- Github link - make public
+- All links put in comments when submitted
+- The document with 5 jobs from the site 
+- No prototype needs to be submitted
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Be creative and have fun!
+## Reviewed by: 
